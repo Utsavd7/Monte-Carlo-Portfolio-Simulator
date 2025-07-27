@@ -1,5 +1,3 @@
-I'll update the README to include detailed `.env` file creation instructions. Here's the updated section:
-
 # Monte Carlo Portfolio Simulator 📈
 
 A sophisticated web application that leverages Monte Carlo simulation techniques to analyze portfolio risk and returns, providing investors with probabilistic insights into their investment strategies.
