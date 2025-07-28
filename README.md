@@ -48,9 +48,9 @@ Traditional portfolio analysis often relies on single-point estimates, which fai
 ## 📸 Screenshots
 
 <p align="center">
-<img src="Screenshots/Screenshot1.png" width="33%" alt="Event Analysis View">
-<img src="Screenshots/Screenshot2.png" width="33%" alt="Overview Dashboard">
-<img src="Screenshots/Screenshot3.png" width="34%" alt="Overview Dashboard">
+<img src="Screenshots/Screenshot1.png" width="49%" alt="Event Analysis View">
+<img src="Screenshots/Screenshot2.png" width="49%" alt="Overview Dashboard">
+<img src="Screenshots/Screenshot3.png" width="49%" alt="Overview Dashboard">
 
 </p>
 
