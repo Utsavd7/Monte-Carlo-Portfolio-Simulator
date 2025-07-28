@@ -45,6 +45,15 @@ Traditional portfolio analysis often relies on single-point estimates, which fai
 - **Value at Risk (VaR)**: 95% confidence interval for maximum loss
 - **Sharpe Ratio**: Risk-adjusted performance metric
 
+## 📸 Screenshots
+
+<p align="center">
+<img src="screenshots/screenshot1.png" width="33%" alt="Event Analysis View">
+<img src="screenshots/screenshot2.png" width="33%" alt="Overview Dashboard">
+<img src="screenshots/screenshot3.png" width="34%" alt="Overview Dashboard">
+
+</p>
+
 ## 📐 Mathematical Foundation
 
 ### Portfolio Return Calculation
